@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug BizLand (tanpa server)",
+      "type": "chrome",
+      "request": "launch",
+      "url": "file://${workspaceFolder}/index.html",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
